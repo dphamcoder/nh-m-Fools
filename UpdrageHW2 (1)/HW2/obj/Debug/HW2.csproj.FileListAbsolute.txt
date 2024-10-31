@@ -1,0 +1,168 @@
+C:\Users\vanlo\source\repos\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\vanlo\source\repos\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\vanlo\source\repos\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\vanlo\source\repos\HW2\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\vanlo\source\repos\HW2\HW2\obj\Debug\HW2.Platform.resources
+C:\Users\vanlo\source\repos\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\vanlo\source\repos\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\vanlo\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\vanlo\source\repos\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\vanlo\source\repos\HW2\HW2\obj\Debug\HW2.pdb
+D:\HW2 (1)\HW2\bin\Debug\HW2.exe.config
+D:\HW2 (1)\HW2\bin\Debug\HW2.exe
+D:\HW2 (1)\HW2\bin\Debug\HW2.pdb
+D:\HW2 (1)\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+D:\HW2 (1)\HW2\obj\Debug\HW2.Platform.resources
+D:\HW2 (1)\HW2\obj\Debug\HW2.Properties.Resources.resources
+D:\HW2 (1)\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+D:\HW2 (1)\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+D:\HW2 (1)\HW2\obj\Debug\HW2.exe
+D:\HW2 (1)\HW2\obj\Debug\HW2.pdb
+D:\HW2 (1)\HW2\bin\Debug\MetroFramework.Design.dll
+D:\HW2 (1)\HW2\bin\Debug\MetroFramework.dll
+D:\HW2 (1)\HW2\bin\Debug\MetroFramework.Fonts.dll
+D:\HW2 (1)\HW2\obj\Debug\HW2.csproj.Up2Date
+D:\HW2 (1)\HW2\obj\Debug\HW2.Form2.resources
+D:\HW2 (1)\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\bin\Debug\HW2.exe.config
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\bin\Debug\HW2.exe
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\bin\Debug\HW2.pdb
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\bin\Debug\MetroFramework.dll
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.Platform.resources
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.Form2.resources
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.csproj.Up2Date
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.exe
+C:\Users\vanlo\Documents\Zalo Received Files\HW2 (1)\HW2\obj\Debug\HW2.pdb
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\bin\Debug\HW2.exe
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\bin\Debug\HW2.pdb
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\bin\Debug\MetroFramework.dll
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.Platform.resources
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.csproj.Up2Date
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.exe
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.pdb
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.Goi_Nguoi_Than.resources
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.KetThuc.resources
+C:\Users\Doan Hieu\Downloads\UpdrageHW2\HW2\obj\Debug\HW2.Bat_Dau.resources
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\bin\Debug\HW2.exe
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\bin\Debug\HW2.pdb
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\bin\Debug\MetroFramework.dll
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.KetThuc.resources
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.Platform.resources
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.Goi_Nguoi_Than.resources
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.Bat_Dau.resources
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.csproj.Up2Date
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.exe
+C:\Users\vanlo\OneDrive\Tài liệu\Upgen\UpdrageHW2\HW2\obj\Debug\HW2.pdb
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe.config
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\HW2.pdb
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.dll
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.KetThuc.resources
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Platform.resources
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Goi_Nguoi_Than.resources
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Bat_Dau.resources
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.Up2Date
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.exe
+C:\Users\Doan Hieu\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.pdb
+D:\d fun\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe.config
+D:\d fun\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe
+D:\d fun\UpdrageHW2 (1)\HW2\bin\Debug\HW2.pdb
+D:\d fun\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Design.dll
+D:\d fun\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.dll
+D:\d fun\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Fonts.dll
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.KetThuc.resources
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Platform.resources
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Goi_Nguoi_Than.resources
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Bat_Dau.resources
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Properties.Resources.resources
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.CopyComplete
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.exe
+D:\d fun\UpdrageHW2 (1)\HW2\obj\Debug\HW2.pdb
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe.config
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\HW2.pdb
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.dll
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.KetThuc.resources
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Platform.resources
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Goi_Nguoi_Than.resources
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Bat_Dau.resources
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.Up2Date
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.exe
+C:\Users\vanlo\Documents\Zalo Received Files\UpdrageHW2 (1)\HW2\obj\Debug\HW2.pdb
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe.config
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\bin\Debug\HW2.pdb
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Design.dll
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.dll
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Fonts.dll
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.KetThuc.resources
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Platform.resources
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Goi_Nguoi_Than.resources
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Bat_Dau.resources
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Properties.Resources.resources
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.CopyComplete
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.exe
+D:\d fun\UpdrageHW2 (1)\UpdrageHW2 (1)\HW2\obj\Debug\HW2.pdb
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe.config
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\bin\Debug\HW2.exe
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\bin\Debug\HW2.pdb
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Design.dll
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.dll
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\bin\Debug\MetroFramework.Fonts.dll
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.KetThuc.resources
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Platform.resources
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Goi_Nguoi_Than.resources
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Bat_Dau.resources
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.Properties.Resources.resources
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.To_Tu_Van_Tai_Cho.resources
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.csproj.CopyComplete
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.exe
+D:\ai la trieu phu lore\UpdrageHW2 (1)\HW2\obj\Debug\HW2.pdb

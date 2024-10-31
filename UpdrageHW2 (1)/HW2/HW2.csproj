@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9223ECB7-0E8F-46DE-B1CD-B7032E150A75}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HW2</RootNamespace>
+    <AssemblyName>HW2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="KetThuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KetThuc.Designer.cs">
+      <DependentUpon>KetThuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Goi_Nguoi_Than.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Goi_Nguoi_Than.Designer.cs">
+      <DependentUpon>Goi_Nguoi_Than.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bat_Dau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bat_Dau.Designer.cs">
+      <DependentUpon>Bat_Dau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="To_Tu_Van_Tai_Cho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="To_Tu_Van_Tai_Cho.Designer.cs">
+      <DependentUpon>To_Tu_Van_Tai_Cho.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="KetThuc.resx">
+      <DependentUpon>KetThuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Goi_Nguoi_Than.resx">
+      <DependentUpon>Goi_Nguoi_Than.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bat_Dau.resx">
+      <DependentUpon>Bat_Dau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="To_Tu_Van_Tai_Cho.resx">
+      <DependentUpon>To_Tu_Van_Tai_Cho.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2024-10-25 172902.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\PAF-old.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\50-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Goi_Nguoi_Than.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Y_Kien_K-Gia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\z5970796230494_0232cefd5d2dbacef4e932a52b4e21bd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\z5970796900652_7bd47f8a197585de41cc056cd7f7a853.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\z5970797631759_7e66b8a44ed6502823ca3b08cc3c279a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\z5970799938524_3f7fa135f0dd88da291d7ecc9b4abbba.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\z5970799938546_a3b5cef93f1031462808e6d70ac53525.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\z5970801003542_92b17f9d1a26c94776140bc581136902.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Moc_Tro_Choi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Moc_Tro_Choi1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e4e6616c52711d579125da5b02d235399a6047ad1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x10801.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z5966968948024_4391c3e9c94311cdb685ca86dbebf3b0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z5975897777451_b436cb163d203831601012e3b18a7057.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z5975897777305_9d7681260f5e32ae1190d4e06ba9e449.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tu_van_tai_cho.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z5976608481621_b67ea525937a4f2a9ae2bcf98ccbe36a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z5976701128434_ca7ee5e68454edfb0886e015de6af651.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 person playing Who Wants to Be a Millionaire, 1 person calling from home to help, 2 people on opposite sides of the picture %28aspect ratio 16_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Advised.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
